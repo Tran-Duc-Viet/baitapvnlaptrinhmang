@@ -1,0 +1,75 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 0AB9-FD82
+
+ Directory of d:\
+
+04/25/2022  04:38 PM    <DIR>          .idea
+02/19/2022  03:54 AM           246,199 0-Intro to An toÖn vÖ An ninh.pdf
+02/19/2022  03:54 AM           195,805 1-AntoanTT-Nhapmon01.pdf
+02/19/2022  03:54 AM           218,181 2-AntoanTT02-Mahoadoixung-Basic.pdf
+02/19/2022  03:54 AM           369,091 3-AntoanTT02-Mahoadoixung-DES.pdf
+02/19/2022  03:54 AM           342,010 4-An toan TT-Key Distribution Schemes.pdf
+02/19/2022  03:54 AM           204,229 5-An toan TT-Public Key Crypto Systems.pdf
+02/19/2022  03:54 AM           269,953 6-AN toan TT - Phuong phap RSA.pdf
+02/19/2022  03:54 AM           255,209 7-An toan TT - Diffie-Hellman+Elgamal.pdf
+02/19/2022  03:54 AM           511,722 8-An toan TT - Xac thuc & Chu ky so 2012.pdf
+02/19/2022  03:54 AM           496,806 9-An toan TT - Network and System Security.pdf
+12/15/2021  08:30 AM           384,053 95_TranDucViet_20198275.pdf
+05/15/2022  04:41 PM            21,406 A place that I would like to shop for food is the local market.docx
+04/14/2021  11:09 AM            40,766 a.exe
+04/26/2022  09:23 PM        21,228,931 AdventureWorks-oltp-install-script (1).zip
+04/26/2022  10:22 PM    <DIR>          AdventureWorks2017
+01/14/2022  07:03 AM    <DIR>          astah uml
+02/18/2021  02:26 PM        46,376,231 Bravo8_v4.5.6.1_M1_v2.rar
+04/28/2022  10:49 PM        97,697,175 Bravo8_v4.5.6.1_TC.rar
+04/19/2022  08:32 PM           921,302 BAI T?P CA NHAN MON PROJECT 1.docx
+04/25/2022  10:49 PM            35,662 BÖi t?p c† nhÉn project tu?n 30.docx
+04/20/2022  08:48 PM           840,603 BÖi t?p project 1 tu?n 1(tu?n 29).zip
+04/27/2022  11:26 AM           245,291 BÖi t?p th?c hÖnh tràn l?p mìn TK vÖ QL CSDL.docx
+05/05/2021  05:05 PM           124,424 b†o c†o.docx
+04/20/2022  08:54 PM    <DIR>          C
+02/19/2022  03:54 AM           250,432 C2-Crypto I.pdf
+02/19/2022  03:54 AM           455,910 C3-Cryptography II.pdf
+02/19/2022  03:54 AM           181,618 C4-Cryptography III.pdf
+01/06/2022  10:28 PM    <DIR>          co-vua-master
+04/14/2021  11:10 AM            40,766 djtmemay.exe
+04/06/2021  09:19 AM                65 dmm.c
+04/06/2021  09:39 AM            40,766 dmm.exe
+02/23/2021  10:08 PM    <DIR>          Download
+04/04/2022  05:16 PM            25,298 Figure_1.png
+02/23/2021  10:06 PM    <DIR>          Garena
+03/30/2021  08:39 PM    <DIR>          HDH
+04/14/2021  11:09 AM                60 HelloWorld.c
+09/03/2021  06:28 PM    <DIR>          HÖ
+12/28/2021  02:02 PM           341,944 IELTS Reading 2- Practice 3.pdf
+06/03/2021  05:25 PM            14,426 include.docx
+05/09/2022  11:14 PM    <DIR>          iTunes
+12/11/2020  11:30 PM    <DIR>          Java-Minesweeper-Game-master
+12/11/2020  10:42 PM            93,981 Java-Minesweeper-Game-master.rar
+12/11/2020  11:31 PM            95,380 Java-Minesweeper-Game-master.xnxx
+12/11/2020  11:31 PM            95,380 Java-Minesweeper-Game-master.xxx
+04/17/2022  04:46 PM         2,329,581 Lap_trinh_mang_v2.pdf
+03/22/2021  11:54 AM    <DIR>          Linux
+04/26/2022  09:23 PM    <DIR>          LSDCSVN
+05/08/2022  01:53 AM    <DIR>          L?p trçnh m?ng
+02/27/2022  08:50 PM    <DIR>          m?ng m†y t°nh
+10/14/2020  03:54 PM    <DIR>          Nhapmonjava
+05/13/2022  12:18 AM            49,210 Nhom 18_ Phan_tich_yeu_cau_phan_mem.docx
+05/13/2022  12:51 AM            60,509 Nhom18_PTYCPM.docx
+04/28/2022  10:52 PM    <DIR>          PhÉn t°ch TK vÖ XD ph?n m?m
+04/28/2022  10:49 PM    <DIR>          PhÉn t°ch yàu c?u ph?n m?m
+04/22/2022  01:20 AM            44,694 PhÉn t°ch yàu c?u ph?n m?m.docx
+04/26/2022  09:38 PM       708,199,808 SSMS-Setup-ENU (1).exe
+04/29/2022  01:16 PM    <DIR>          Thi?t k? vÖ qu?n tr? CSDL
+05/09/2022  11:23 PM            27,673 Tran_Duc_Viet_20198275_B†o c†o ti?n d?c h?c cìng ngh?.docx
+02/20/2022  09:11 PM    <DIR>          tr° tu? nhÉn t?o
+04/24/2022  03:44 PM    <DIR>          VSS
+05/09/2022  11:20 PM    <DIR>          web developer
+05/14/2022  11:52 PM    <DIR>          workspace
+12/06/2021  06:19 PM    <DIR>          Xampp
+04/25/2022  05:24 PM    <DIR>          xulytinhieuso
+02/18/2021  04:23 PM        96,325,728 ZaloSetup-21.2.1.exe
+02/17/2022  10:13 PM           917,339 ìn t?p co s? d? li?u.docx
+02/14/2022  10:26 PM         5,673,092 ON-T?P-CU?I-K?-NH?P-MON-CONG-NGHE-PH?N-M?M.pdf
+              43 File(s)    986,288,709 bytes
+              25 Dir(s)  322,560,753,664 bytes free
